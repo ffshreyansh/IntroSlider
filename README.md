@@ -1,16 +1,6 @@
 # slider_app
+Intro Slider Feature ForntEnd
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![IntroSldr-01](https://user-images.githubusercontent.com/51352120/196019049-9ffc60ae-01d0-438e-b2dd-7009afa66e86.png)
+![tinywow_Color Matte_6805511](https://user-images.githubusercontent.com/51352120/196019052-ac750984-f614-42f9-802d-b222d626223e.gif)
